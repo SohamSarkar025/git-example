@@ -1,5 +1,7 @@
 This is a updated sample file  
- 
+
+This is change by rebase branch  
+
 
 this is change by merge-example-branch
 this is change by merge-example-branch
